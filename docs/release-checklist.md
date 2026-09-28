@@ -22,9 +22,9 @@ IntentDeck is a local-first application with 25 card formats. The parser, card a
 - [x] Include the MIT license, third-party notices, contribution guide, and security reporting instructions.
 - [x] Ignore `.env` and provide a blank `.env.example`.
 - [x] Run tests, `nifra check`, and the Bun production build in CI.
-- [ ] Create the initial commit, configure the GitHub remote, choose repository visibility, and set the description and topics.
-- [ ] Review the exact committed files before making the repository public.
-- [ ] Repeat install, checks, build, and boot from a clean clone.
+- [x] Create the initial commit, configure the GitHub remote, choose repository visibility, and set the description and topics.
+- [x] Review the exact committed files before making the repository public.
+- [x] Repeat install, checks, build, and boot from a clean clone.
 
 Suggested GitHub description: **A local-first Nifra app that turns short thoughts into useful cards.**
 
